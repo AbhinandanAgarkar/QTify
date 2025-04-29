@@ -3,7 +3,7 @@ import styles from "./searchbox.module.css";
 import SearchIcon from "../../assets/search-icon.svg?react";
 import {useAutocomplete} from "@mui/base/useAutocomplete";
 import { styled } from "@mui/system";
-import { truncate } from "../../helpers/helpers";
+import { truncate } from "../../Helpers/helpers";
 import { useNavigate } from "react-router-dom";
 // // import { Tooltip } from "@mui/material";
 
