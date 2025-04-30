@@ -1,7 +1,7 @@
 import { CircularProgress } from "@mui/material";
 import React, { useEffect } from "react";
 import { useState } from "react";
-import Card from "../Card/Card";
+import Card from "../Card/card";
 import Carousel from "../Carousel/Carousel";
 import Filters from "../Filters/Filters";
 import styles from "./Section.module.css";
